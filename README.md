@@ -1,3 +1,3 @@
 # demomergeconflict
 
-Haopeng Zhang
+Haopeng Zhang, I like DMIT2018
